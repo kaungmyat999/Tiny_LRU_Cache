@@ -40,14 +40,15 @@ Includes:
 ## 🛠 Build Instructions
 
 ### Build (Linux/macOS/Windows)
-```bash
 mkdir build
 cd build
 cmake ..
 make -j8
 
+### Run Tests
 ./tiny_lru_example
 
+### Run BenchMark
 ./tiny_lru_tests
 
 
