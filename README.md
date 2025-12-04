@@ -45,9 +45,11 @@ cd build
 cmake ..
 make -j8
 
+---
 ### Run Tests
 ./tiny_lru_example
 
+---
 ### Run BenchMark
 ./tiny_lru_tests
 
