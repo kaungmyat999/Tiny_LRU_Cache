@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtinylru.a CMakeFiles/tinylru.dir/src/lru_cache.cpp.o CMakeFiles/tinylru.dir/src/lru_cache_read_optimized.cpp.o
+/usr/bin/ranlib libtinylru.a

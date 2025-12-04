@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tiny_lru_benchmark.dir/benchmarks/benchmark.cpp.o -o tiny_lru_benchmark  libtinylru.a -lpthread 

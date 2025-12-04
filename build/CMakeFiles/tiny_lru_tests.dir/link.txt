@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tiny_lru_tests.dir/tests/test_lru.cpp.o -o tiny_lru_tests  libtinylru.a -lpthread 
